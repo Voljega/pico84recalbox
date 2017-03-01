@@ -1,0 +1,3 @@
+button vendor=0xXXXX product=0xYYYY src=joy_button_num target=kbd button="key_press"
+button vendor=0xXXXX product=0xYYYY src=joy_button_num target=kbd button="ctrl"
+button vendor=0xXXXX product=0xYYYY src=joy_button_num target=kbd button="q"
